@@ -1,4 +1,4 @@
-# NLW eSports 
+# Explorer Rocketseat 
 
 > Trinha explorer
 
@@ -7,7 +7,7 @@
 
 
 [Clique aqui para acessar]
-🔎(https://paulos2henrique.github.io/NLW-esports/)
+🔎(https://paulos2henrique.github.io/GIT-favorit.2/)
 
 
 Projeto construido no Stage 06 da Rocketseat.
